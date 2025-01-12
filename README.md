@@ -62,23 +62,22 @@ To run the project, you need the following Python libraries:
 
 - `pandas`
 - `numpy`
-- `matplotlib`
 - `scikit-learn`
 
 Install the required packages using pip:
 
 ```bash
-pip install pandas numpy matplotlib scikit-learn
+pip install pandas numpy scikit-learn
 ```
 
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/diamonds-analysis.git
+   git clone https://github.com/mr1necs/Tax-Free-Diamonds.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd diamonds-analysis
+   cd Tax-Free-Diamonds
    ```
 3. Open the Jupyter Notebook:
    ```bash
